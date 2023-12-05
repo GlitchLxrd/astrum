@@ -12,7 +12,6 @@ This is a simple implementation of the Mastermind game in C. The game involves a
 
 To build the code, use the provided Makefile. Open a terminal in the project directory and run:
 
-```bash
 make
 
 Running the Game
@@ -36,7 +35,7 @@ This is a simple implementation of the Mastermind game in C. The game involves a
 
 To build the code, use the provided Makefile. Open a terminal in the project directory and run:
 
-```bash
+
 make
 Running the Game
 The executable is named mastermind. You can run it with the following command:
